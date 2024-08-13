@@ -1,4 +1,4 @@
-# CSV Data Extractor App
+ # CSV Data Extractor App
 This project is a WPF (Windows Presentation Foundation) application designed to process stock market transaction data from multiple banks, each providing data in CSV format with different schemas. The application extracts specified fields, including both simple and complex data fields, from the input files and generates a standardized CSV output.
 ## Features
 *	**User-Friendly Interface:** A simple and intuitive WPF application that allows users to process CSV files with ease.
@@ -35,9 +35,5 @@ This project is a WPF (Windows Presentation Foundation) application designed to 
   
 *	**DataExtractor.NUnit:** Unit tests to ensure the reliability of the CSV processing logic.
 
-##Getting Started
+## Getting Started
 Clone the repository, open the solution in Visual Studio, and build the project. Run the application to start processing CSV files.
-
-##Contributions
-Contributions are welcome! If you have any ideas for improvements or new features, feel free to fork the repository and submit a pull request.
-
